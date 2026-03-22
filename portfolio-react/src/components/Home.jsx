@@ -36,7 +36,7 @@ function Home() {
             </p>
 
             <div className="flex justify-center md:justify-start gap-4 mb-8">
-              <a href="https://www.linkedin.com/in/harsh-kushwaha" target="_blank" rel="noopener noreferrer"
+              <a href="https://www.linkedin.com/in/harsh-kushwaha-74089b252/" target="_blank" rel="noopener noreferrer"
                 className="w-12 h-12 flex items-center justify-center border-2 border-primary rounded-full text-primary hover:bg-primary hover:text-dark transition-all hover:scale-110">
                 <FaLinkedin size={20} />
               </a>
